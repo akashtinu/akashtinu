@@ -4,6 +4,7 @@ Fullstack develeper
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
                                                 
 - 🌱 I’m currently learning and  Integrating AI to my workflow
+- [Open My Resume](./AKASH_Y_1QSP_react.pdf)
 
 
 ### I code in
